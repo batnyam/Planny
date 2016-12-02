@@ -1,0 +1,20 @@
+.black {
+  width: 20px;
+  height: 20px;
+  margin: 1px;
+  background: #c0392b;
+  border: 1px solid #fefefe;
+  border-radius: 5px;
+  float: left;
+  padding: 2px;
+}
+.blacked {
+  width: 20px;
+  height: 20px;
+  margin: 1px;
+  background: #000;
+  border: 1px solid #3498db;
+  border-radius: 5px;
+  float: left;
+  padding: 2px;
+}
